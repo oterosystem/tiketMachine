@@ -7,7 +7,7 @@
  * It also assumes that users enter sensible amounts.
  *
  * @author David J. Barnes and Michael Kölling
- * @version 2011.07.31
+ * @version 2016.02.29
  */
 public class TicketMachine
 {
