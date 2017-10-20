@@ -10,8 +10,8 @@ public class EstacionDeTren
     public EstacionDeTren(String nombreCiudad, int precioUno, int precioDos)
     {
     ciudad = nombreCiudad;
-    maquinaUno = new TicketMachine(precioUno);
-    maquinaDos = new TicketMachine(precioDos);
+   // maquinaUno = new TicketMachine(precioUno);
+    //maquinaDos = new TicketMachine(precioDos);
     }
     /**
      * simula la venta de un billete en la maquina 1
